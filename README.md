@@ -14,16 +14,18 @@ I'm a Software Engineer from Pakistan who enjoys transforming ideas into modern,
 ---
 
 ## 🛠️ Tech Stack
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,nodejs,express,mongodb,mysql,git,github,figma,vscode&theme=dark"> <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,nodejs,express,mongodb,mysql,git,github,figma,vscode&theme=light"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,nodejs,express,mongodb,mysql,git,github,figma,vscode&theme=light" alt="Tech Stack" /> </picture>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwindcss,nodejs,express,mongodb,mysql,git,github,bitbucket,figma,vscode" />
+</p>
 
+## 📊 GitHub Activity
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMujahidDev&hide_border=true" /> </p>
 
 ## 🌐 Connect With Me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/ahmedmu14/">LinkedIn</a> •
-<a href="https://ahmedmujahiddev.github.io/portfolio/">Website</a> •
-<a href="mailto:Ahmedmujahid2004@gmail.com">Email</a>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/ahmedmu14/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://ahmedmujahiddev.github.io/portfolio/"> <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="mailto:Ahmedmujahid2004@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+
+<p align="center"> <i>Let's connect, collaborate, and build something meaningful together. 🚀</i> </p>
 
 ---
 
