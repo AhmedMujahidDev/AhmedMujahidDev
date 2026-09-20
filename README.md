@@ -5,10 +5,10 @@
 
 I'm a Software Engineer from Pakistan who enjoys transforming ideas into modern, responsive, and scalable web applications.
 
-💻 Focused on Frontend Development with React & Next.js
-🔧 Currently expanding my skills in Backend Development & APIs
-🚀 Interested in building scalable, production-ready web applications
-🤖 Exploring AI integration and automation in modern web applications
+💻 Focused on Frontend Development with React & Next.js </br>
+🔧 Currently expanding my skills in Backend Development & APIs </br>
+🚀 Interested in building scalable, production-ready web applications </br>
+🤖 Exploring AI integration and automation in modern web applications </br>
 🌱 Continuously learning and improving my software engineering skills
 
 ---
